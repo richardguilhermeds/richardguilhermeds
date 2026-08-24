@@ -6,6 +6,10 @@ Me chamo **Richard**, cientista de dados especializado em **modelagem de risco d
 
 Mestre em Estatística pelo **ICMC/USP** e pela **UFSCar**, e bacharel em Matemática pela **UNESP**, gosto de trabalhar na fronteira entre o rigor estatístico e o que a regulação exige que seja defensável.
 
+<div align="center">
+  <a href="https://richardguilhermeds.github.io/portfolio/"><img src="https://img.shields.io/badge/🧭_Portf%C3%B3lio-1a1a2e?style=for-the-badge&labelColor=d4af37&color=1a1a2e" alt="Portfólio"/></a>
+</div>
+
 <p align="center">ᚱ · ᛟ · ᚠ · ᛏ · ᛊ · ᛉ</p>
 
 ## >_ Sobre mim
@@ -15,6 +19,7 @@ Mestre em Estatística pelo **ICMC/USP** e pela **UFSCar**, e bacharel em Matem�
 * **Foco:** parâmetros de risco de crédito (PD, LGD, EAD) e perda esperada (ECL)
 * **Regulação:** Resolução CMN 4.966/2021 · IFRS 9
 * **Stack:** Python · PySpark · SQL · Databricks (Unity Catalog, Delta, MLflow, Feature Store)
+* **Portfólio:** [richardguilhermeds.github.io/portfolio](https://richardguilhermeds.github.io/portfolio/)
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
