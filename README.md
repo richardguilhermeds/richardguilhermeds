@@ -2,15 +2,15 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32px"/> >_ Olá!
 
-Sou o **Richard Guilherme**, cientista de dados especializado em **modelagem de risco de crédito**: PD, LGD e EAD sob a **Resolução CMN 4.966/2021** e o **IFRS 9**. No dia a dia, construo e valido parâmetros de risco em escala, do dado bruto no lake até o modelo registrado e monitorado.
+Me chamo **Richard**, cientista de dados especializado em **modelagem de risco de crédito**: PD, LGD e EAD sob a **Resolução CMN 4.966/2021** e o **IFRS 9**. No dia a dia, construo e valido parâmetros de risco em escala, das bases de dados no lake até o monitoramento de modelos no **MLflow**.
 
-Mestre em Estatística pelo **ICMC/USP** e bacharel em Matemática pela **UNESP**, gosto de trabalhar na fronteira entre o rigor estatístico e o que a regulação exige que seja defensável.
+Mestre em Estatística pelo **ICMC/USP** e pela **UFSCar**, e bacharel em Matemática pela **UNESP**, gosto de trabalhar na fronteira entre o rigor estatístico e o que a regulação exige que seja defensável.
 
 <p align="center">ᚱ · ᛟ · ᚠ · ᛏ · ᛊ · ᛉ</p>
 
 ## >_ Sobre mim
 
-* **Mestrado em Estatística**: ICMC/USP
+* **Mestrado em Estatística**: ICMC/USP e UFSCar
 * **Bacharelado em Matemática**: UNESP
 * **Foco:** parâmetros de risco de crédito (PD, LGD, EAD) e perda esperada (ECL)
 * **Regulação:** Resolução CMN 4.966/2021 · IFRS 9
@@ -39,9 +39,9 @@ Meu principal projeto open source: um pacote Python de **esteiras governadas de 
   <a href="https://github.com/richardguilhermeds/Yggdrasil-Project/blob/main/LICENSE"><img src="https://img.shields.io/github/license/richardguilhermeds/Yggdrasil-Project?style=for-the-badge&color=d4af37&labelColor=1a1a2e"/></a>
 </div>
 
-```bash
-pip install yggdrasil-project
-```
+<div align="center">
+  <code>pip install yggdrasil-project</code>
+</div>
 
 Os sete ramos:
 
@@ -52,8 +52,6 @@ Os sete ramos:
 * ᛊ **Model Segmenter**: modelagem agnóstica de algoritmo, da regressão logística ao CatBoost, com tuning via Optuna
 * ᛉ **Capital Econômico**: distribuição de perdas via ASRF, Monte Carlo e CreditRisk+, com alocação de Euler
 * ᚢ **Satélites Econométricos**: ARDL, ARIMAX e VAR/VECM ligando parâmetros de risco ao ciclo macroeconômico
-
-Tudo compatível com Databricks e documentado em 12 notebooks de tutorial no site.
 
 <div align="center">
   <a href="https://yggdrasil-project.com.br"><b>🌐 Explore o site</b></a> ·
