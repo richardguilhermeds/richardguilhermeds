@@ -29,8 +29,6 @@ Mestre em Estatística pelo **ICMC/USP** e pela **UFSCar**, e bacharel em Matem�
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 </div>
 
-<p align="center">ᛦ</p>
-
 ## 🌳 >_ Yggdrasil Project
 
 > **A árvore-mundo da ciência de dados de crédito.**
